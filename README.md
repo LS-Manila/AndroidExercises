@@ -17,6 +17,20 @@ A collection of basic Android exercises
 13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-melvincabatuan)
 14. T.B.A.
 
+
+## Submission Procedure with Git: 
+
+```shell
+$ cd /path/to/your/android/app/
+$ git init
+$ git add –all
+$ git commit -m "your message, e.x. Assignment 1 submission"
+$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
+$ git push -u origin master
+<then Enter Username and Password>
+```
+
+
 ## Assignments:
 
 https://classroom.github.com/organizations/14812437-androiddevelopmentclass 
