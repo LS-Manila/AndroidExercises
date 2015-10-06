@@ -21,7 +21,7 @@ A collection of basic Android exercises
 ## Submission Procedure with Git: 
 
 ```shell
-$ cd /path/to/your/android/app/
+$ cd /path/to/your/files/
 $ git init
 $ git add –all
 $ git commit -m "your message, e.x. Assignment 1 submission"
