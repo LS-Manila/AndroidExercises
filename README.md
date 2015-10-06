@@ -7,7 +7,7 @@ A collection of basic Android exercises
 3. **Activity Lifecycle** Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-melvincabatuan)
 4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-melvincabatuan)
 5. **Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan)
-6. **WeekDay App using Date Picker Fragment ** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan)
+6. **WeekDay App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan)
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-melvincabatuan)
 8. **Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-melvincabatuan)
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-melvincabatuan)
