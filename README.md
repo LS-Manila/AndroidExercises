@@ -33,6 +33,6 @@ $ git push -u origin master
 
 ## Assignments:
 
-https://classroom.github.com/organizations/14812437-androiddevelopmentclass 
+https://classroom.github.com/classrooms/14812437-androiddevelopmentclass
 
 "*If I have seen farther than others, it is because I have stood on the shoulders of giants.*" --Isaac Newton
