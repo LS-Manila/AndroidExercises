@@ -18,7 +18,9 @@ A collection of basic Android exercises
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-melvincabatuan)
 15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-melvincabatuan)
 16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-melvincabatuan)
-17. TBA
+17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-melvincabatuan)
+18. **Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-melvincabatuan)
+19. TBA
 
 
 ## Submission Procedure with Git: 
