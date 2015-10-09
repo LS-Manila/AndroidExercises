@@ -17,7 +17,8 @@ A collection of basic Android exercises
 13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-melvincabatuan)
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-melvincabatuan)
 15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-melvincabatuan)
-16. TBA
+16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-melvincabatuan)
+17. TBA
 
 
 ## Submission Procedure with Git: 
