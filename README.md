@@ -20,7 +20,9 @@ A collection of basic Android exercises
 16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-melvincabatuan)
 17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-melvincabatuan)
 18. **Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-melvincabatuan)
-19. TBA
+19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-melvincabatuan)
+20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-melvincabatuan)
+21. ** TBA **
 
 
 ## Submission Procedure with Git: 
