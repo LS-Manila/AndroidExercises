@@ -23,7 +23,8 @@ A collection of basic Android exercises
 19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-melvincabatuan)
 20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-melvincabatuan)
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-melvincabatuan)
-22. ** TBA **
+22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
+23. ** TBA **
 
 
 ## Submission Procedure with Git: 
