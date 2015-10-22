@@ -25,7 +25,7 @@ A collection of basic Android exercises
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-melvincabatuan)
 22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
 23. **Mini-database with Text file** (https://classroom.github.com/assignment-invitations/6984288563af23b78a4d9f6d35be95d1)
-24. ** TBA **
+24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
 25. ** TBA **
 26. ** TBA **
 27. ** TBA **
