@@ -26,7 +26,7 @@ A collection of basic Android exercises
 22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
 23. **Mini-database with Text file** (https://classroom.github.com/assignment-invitations/6984288563af23b78a4d9f6d35be95d1)
 24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
-25. **WorkoutFragmentDemo** (https://classroom.github.com/assignment-invitations/10019f6be7a654b1a5bf8b8675f66321)
+25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
 26. ** TBA **
 27. ** TBA **
 28. ** TBA **
