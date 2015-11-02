@@ -31,7 +31,7 @@ A collection of basic Android exercises
 27. **Breast Cancer Awareness App** (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-melvincabatuan)
-30. ** TBA **
+30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-melvincabatuan)
 31. ** TBA **
 32. ** TBA **
 33. ** TBA **
