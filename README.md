@@ -35,7 +35,7 @@ A collection of basic Android exercises
 31. **OpenCV 3.0 Mixed-Signal Processing** (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-melvincabatuan)  
 32. **OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-melvincabatuan)
 33. **OpenCV 3.0 Image Manipulations** (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-melvincabatuan)
-34. ** TBA **
+34. **Get Current Location and Place a Marker** (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-melvincabatuan)
 35. ** TBA **
 36. ** TBA **
 37. ** TBA **
