@@ -29,7 +29,7 @@ A collection of basic Android exercises
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
 26. **Grocery App** (https://classroom.github.com/assignment-invitations/dd320497ba09faadd245acf6614f03af)
 27. **Breast Cancer Awareness App** (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)
-28. ** TBA **
+28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
 29. ** TBA **
 30. ** TBA **
 31. ** TBA **
