@@ -32,8 +32,8 @@ A collection of basic Android exercises
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-melvincabatuan)
 30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-melvincabatuan)
-31. ** TBA **
-32. ** TBA **
+31. **OpenCV 3.0 Mixed-Signal Processing** (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-melvincabatuan)  
+32. **OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-melvincabatuan)
 33. ** TBA **
 34. ** TBA **
 35. ** TBA **
