@@ -37,7 +37,7 @@ A collection of basic Android exercises
 33. **OpenCV 3.0 Image Manipulations** (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-melvincabatuan)
 34. **Get Current Location and Place a Marker** (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-melvincabatuan)
 35. **Get Neighboring Hospitals** (https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-melvincabatuan)
-36. ** TBA **
+36. **OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-melvincabatuan)
 37. ** TBA **
 38. ** TBA **
 39. ** TBA **
