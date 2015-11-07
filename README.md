@@ -41,7 +41,7 @@ A collection of basic Android exercises
 37. **Android Native Camera Access with Native OpenCV Processing through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-melvincabatuan)
 38. **Android Camera Bitmap Access through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-melvincabatuan)
 39. **Cat Face Detection** (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan)
-40. ** TBA **
+40. **QR and Bar Code Reader** (https://github.com/DeLaSalleUniversity-Manila/barcodereader-melvincabatuan)
 41. ** TBA **
 42. ** TBA **
 43. ** TBA **
