@@ -46,7 +46,7 @@ A collection of basic Android exercises
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-melvincabatuan)
 43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan)
 44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan)
-45. ** TBA **
+45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-melvincabatuan)
 46. ** TBA **
 47. ** TBA **
 48. ** TBA **
