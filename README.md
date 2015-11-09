@@ -43,8 +43,8 @@ A collection of basic Android exercises
 39. **Cat Face Detection** (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-melvincabatuan)
 40. **QR and Bar Code Reader** (https://github.com/DeLaSalleUniversity-Manila/barcodereader-melvincabatuan)
 41. **OpenCV 3.0 Camera Control** (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-melvincabatuan)
-42. ** TBA **
-43. ** TBA **
+42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-melvincabatuan)
+43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan)
 44. ** TBA **
 45. ** TBA **
 46. ** TBA **
