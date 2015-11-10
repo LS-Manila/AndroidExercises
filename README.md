@@ -49,7 +49,7 @@ A collection of basic Android exercises
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-melvincabatuan)
 46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-melvincabatuan)
 47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-melvincabatuan)
-48. ** TBA **
+48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-melvincabatuan)
 49. ** TBA **
 50. ** TBA **
 51. ** TBA **
