@@ -47,7 +47,7 @@ A collection of basic Android exercises
 43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan)
 44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan)
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-melvincabatuan)
-46. ** TBA **
+46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-melvincabatuan)
 47. ** TBA **
 48. ** TBA **
 49. ** TBA **
