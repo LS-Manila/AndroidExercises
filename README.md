@@ -51,7 +51,7 @@ A collection of basic Android exercises
 47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-melvincabatuan)
 48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-melvincabatuan)
 49. **Pedestrian Detection** (https://github.com/DeLaSalleUniversity-Manila/pedestriandetection-melvincabatuan)
-50. ** TBA **
+50. **Voronoi Effects** (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-melvincabatuan)
 51. ** TBA **
 52. ** TBA **
 53. ** TBA **
