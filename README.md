@@ -48,7 +48,7 @@ A collection of basic Android exercises
 44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan)
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-melvincabatuan)
 46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-melvincabatuan)
-47. ** TBA **
+47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-melvincabatuan)
 48. ** TBA **
 49. ** TBA **
 50. ** TBA **
