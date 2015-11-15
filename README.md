@@ -52,12 +52,12 @@ A collection of basic Android exercises
 48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-melvincabatuan)
 49. **Pedestrian Detection** (https://github.com/DeLaSalleUniversity-Manila/pedestriandetection-melvincabatuan)
 50. **Voronoi Effects** (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-melvincabatuan)
-51. ** TBA **
-52. ** TBA **
-53. ** TBA **
-54. ** TBA **
-55. ** TBA **
-56. ** TBA **
+51. **FANN Library in Android** (https://github.com/DeLaSalleUniversity-Manila/fastartificialneuralnetworkinandroid-melvincabatuan)
+52. **Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-melvincabatuan)
+53. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-melvincabatuan)
+54. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-melvincabatuan)
+55. **Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-melvincabatuan)
+56. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-melvincabatuan)
 57. ** TBA **
 58. ** TBA **
 59. ** TBA **
