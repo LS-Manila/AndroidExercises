@@ -58,13 +58,13 @@ A collection of basic Android exercises
 54. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-melvincabatuan)
 55. **Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-melvincabatuan)
 56. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-melvincabatuan)
-57. ** TBA **
-58. ** TBA **
-59. ** TBA **
-60. ** TBA **
-61. ** TBA **
-62. ** TBA **
-63. ** TBA **
+57. **Face Detection in OpenCV with Gradle Experimental Plugin** (https://github.com/DeLaSalleUniversity-Manila/facedetectionopencvwithgradleexperimentalplugin-melvincabatuan)
+58. **Canny Edge OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/cannyedgeopencvwithandroidexperimentalgradle-melvincabatuan)
+59. **Color Reduction** (https://github.com/DeLaSalleUniversity-Manila/colorreduction-melvincabatuan)
+60. **ORB Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/orbfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
+61. **BRISK Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/briskfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
+62. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
+63. **OpenCV Android Camera Calibration** ()
 64. ** TBA **
 65. ** TBA **
 66. ** TBA **
