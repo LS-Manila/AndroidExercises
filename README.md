@@ -64,7 +64,7 @@ A collection of basic Android exercises
 60. **ORB Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/orbfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
 61. **BRISK Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/briskfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
 62. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
-63. **OpenCV Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-melvincabatuan)
+63. **OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-melvincabatuan)
 64. ** TBA **
 65. ** TBA **
 66. ** TBA **
