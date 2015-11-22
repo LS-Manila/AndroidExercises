@@ -65,15 +65,15 @@ A collection of basic Android exercises
 61. **BRISK Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/briskfeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
 62. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan)
 63. **OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-melvincabatuan)
-64. ** TBA **
-65. ** TBA **
-66. ** TBA **
-67. ** TBA **
-68. ** TBA **
-69. ** TBA **
-70. ** TBA **
-71. ** TBA **
-72. ** TBA **
+64. **Filter2D** (https://github.com/DeLaSalleUniversity-Manila/filter2d-melvincabatuan)
+65. **ContoursDemo** (https://github.com/DeLaSalleUniversity-Manila/contoursdemo-melvincabatuan)
+66. **Circle Detection** (https://github.com/DeLaSalleUniversity-Manila/detectcircles-melvincabatuan)
+67. **Playing with Transparency** (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-melvincabatuan)
+68. **Optical Flow** ()
+69. **ORB Flow** ()
+70. **FAST Flow** ()
+71. **BRISK Flow** ()
+72. **AKAZE Flow** ()
 73. ** TBA **
 74. ** TBA **
 75. ** TBA **
