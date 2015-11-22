@@ -69,11 +69,11 @@ A collection of basic Android exercises
 65. **ContoursDemo** (https://github.com/DeLaSalleUniversity-Manila/contoursdemo-melvincabatuan)
 66. **Circle Detection** (https://github.com/DeLaSalleUniversity-Manila/detectcircles-melvincabatuan)
 67. **Playing with Transparency** (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-melvincabatuan)
-68. **Optical Flow** ()
-69. **ORB Flow** ()
-70. **FAST Flow** ()
-71. **BRISK Flow** ()
-72. **AKAZE Flow** ()
+68. **Optical Flow** (https://github.com/DeLaSalleUniversity-Manila/opticalflow-melvincabatuan)
+69. **ORB Flow** (https://github.com/DeLaSalleUniversity-Manila/orbflow-melvincabatuan)
+70. **FAST Flow** (https://github.com/DeLaSalleUniversity-Manila/fastflow-melvincabatuan)
+71. **AKAZE Flow** (https://github.com/DeLaSalleUniversity-Manila/akazeflow-melvincabatuan)
+72. **Otsu Thresholding** (https://github.com/DeLaSalleUniversity-Manila/otsuthresholding-melvincabatuan)
 73. ** TBA **
 74. ** TBA **
 75. ** TBA **
