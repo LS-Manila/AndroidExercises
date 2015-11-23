@@ -103,7 +103,7 @@ A collection of basic Android exercises
 99. ** TBA **
 100. ** TBA **
 
-## Final Project
+## Final Project (Deadline: December 8, 2015)
 
 To submit:
 
