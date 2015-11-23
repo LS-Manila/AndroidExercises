@@ -74,15 +74,15 @@ A collection of basic Android exercises
 70. **FAST Flow** (https://github.com/DeLaSalleUniversity-Manila/fastflow-melvincabatuan)
 71. **AKAZE Flow** (https://github.com/DeLaSalleUniversity-Manila/akazeflow-melvincabatuan)
 72. **Otsu Thresholding** (https://github.com/DeLaSalleUniversity-Manila/otsuthresholding-melvincabatuan)
-73. ** TBA **
-74. ** TBA **
-75. ** TBA **
-76. ** TBA **
-77. ** TBA **
-78. ** TBA **
-79. ** TBA **
-80. ** TBA **
-81. ** TBA **
+73. **Skin Detector** (https://github.com/DeLaSalleUniversity-Manila/SkinDetector)
+74. **Image Denoising** (https://github.com/DeLaSalleUniversity-Manila/Denoising)
+75. **LBPYUV** (https://github.com/DeLaSalleUniversity-Manila/LBPYUV)
+76. **Basic Thresholding** (https://github.com/DeLaSalleUniversity-Manila/Thresholding)
+77. **Scharr Gradient** (https://github.com/DeLaSalleUniversity-Manila/Scharr)
+78. **YUV Extraction** (https://github.com/DeLaSalleUniversity-Manila/YUV_Fast)
+79. **Native Bitmap Access** (https://github.com/DeLaSalleUniversity-Manila/NativeBitmap)
+80. **Image Histogram** (https://github.com/DeLaSalleUniversity-Manila/Histogram)
+81. **Adaptive Thresholding** (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
 82. ** TBA **
 83. ** TBA **
 84. ** TBA **
@@ -103,7 +103,13 @@ A collection of basic Android exercises
 99. ** TBA **
 100. ** TBA **
 
+## Final Project
 
+To submit:
+
+https://classroom.github.com/assignment-invitations/f426a28aa037c0e16773e2a3c44f0bce 
+
+Note: Also publish in Googleplay
 
 ## Submission Procedure with Git: 
 
