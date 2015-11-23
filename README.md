@@ -128,4 +128,6 @@ $ git push -u origin master
 
 https://classroom.github.com/classrooms/14812437-androiddevelopmentclass
 
+## Create a "MyAndroidPortfolio" repo to contain the list (with links) of your completed assignments (Deadline: December 8, 2015)
+
 "*If I have seen farther than others, it is because I have stood on the shoulders of giants.*" --Isaac Newton
