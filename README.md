@@ -85,7 +85,7 @@ A collection of basic Android exercises
 81. **Adaptive Thresholding** (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
 82. **DISMATH Refresher App** (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old )(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
 83. **Full Body Detection** (https://github.com/DeLaSalleUniversity-Manila/FullBodyDetection)
-84. ** TBA **
+84. **Histogram of Gradients (HOG) Features** (https://github.com/DeLaSalleUniversity-Manila/HOGFeatures)
 85. ** TBA **
 86. ** TBA **
 87. ** TBA **
