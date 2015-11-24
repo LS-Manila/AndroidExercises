@@ -83,7 +83,7 @@ A collection of basic Android exercises
 79. **Native Bitmap Access** (https://github.com/DeLaSalleUniversity-Manila/NativeBitmap)
 80. **Image Histogram** (https://github.com/DeLaSalleUniversity-Manila/Histogram)
 81. **Adaptive Thresholding** (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
-82. **DISMATH Refresher App** (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old)(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
+82. **DISMATH Refresher App** (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old )(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
 83. ** TBA **
 84. ** TBA **
 85. ** TBA **
