@@ -130,4 +130,21 @@ https://classroom.github.com/classrooms/14812437-androiddevelopmentclass
 
 ## Create a "MyAndroidPortfolio" repo to contain the list (with links) of your completed assignments (Deadline: December 8, 2015)
 
+## Extras
+
+### Hello World Screenshots
+
+![screenshot](Hello_01.png)
+![screenshot](Hello_02.png)
+![screenshot](Hello_03.png)
+![screenshot](Hello_04.png)
+![screenshot](Hello_05.png)
+![screenshot](Hello_06.png)
+![screenshot](Hello_07.png)
+![screenshot](Hello_08.png)
+![screenshot](Hello_09.png)
+![screenshot](Hello_10.png)
+![screenshot](Hello_11.png)
+![screenshot](Hello_12.png)
+
 "*If I have seen farther than others, it is because I have stood on the shoulders of giants.*" --Isaac Newton
