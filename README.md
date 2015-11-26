@@ -87,7 +87,7 @@ A collection of basic Android exercises
 83. **Full Body Detection** (https://github.com/DeLaSalleUniversity-Manila/FullBodyDetection)
 84. **Histogram of Gradients (HOG) Features** (https://github.com/DeLaSalleUniversity-Manila/HOGFeatures)
 85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** (https://github.com/DeLaSalleUniversity-Manila/consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan)
-86. **Tesseract OCR Demo** (https://classroom.github.com/assignment-invitations/6e84fd61da0753e0a31559f3e943f0b5)(c/o E. Lu and G. Limqueco)
+86. **Tesseract OCR Demo** (https://classroom.github.com/assignment-invitations/6e84fd61da0753e0a31559f3e943f0b5 )(c/o E. Lu and G. Limqueco)
 87. ** TBA **
 88. ** TBA **
 89. ** TBA **
