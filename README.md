@@ -91,7 +91,7 @@ A collection of basic Android exercises
 87. **CMT Tracker with AKAZE Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-melvincabatuan)
 88. **CMT Tracker with ORB Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-orb-melvincabatuan)
 89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-melvincabatuan)
-90. ** TBA **
+90. **OpenGL ES 3.0 Demo** (https://github.com/DeLaSalleUniversity-Manila/opengles3-melvincabatuan)
 91. ** TBA **
 92. ** TBA **
 93. ** TBA **
