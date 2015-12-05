@@ -90,7 +90,7 @@ A collection of basic Android exercises
 86. **Tesseract OCR Demo** (https://classroom.github.com/assignment-invitations/6e84fd61da0753e0a31559f3e943f0b5 )(c/o E. Lu and G. Limqueco)
 87. **CMT Tracker with AKAZE Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-melvincabatuan)
 88. **CMT Tracker with ORB Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-orb-melvincabatuan)
-89. ** TBA **
+89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-melvincabatuan)
 90. ** TBA **
 91. ** TBA **
 92. ** TBA **
