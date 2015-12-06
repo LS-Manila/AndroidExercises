@@ -95,7 +95,7 @@ A collection of basic Android exercises
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-melvincabatuan)
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-melvincabatuan)
 93. ** TBA **
-94. ** TBA **
+94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/FlappyDemo)
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9GAG)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/MPAndroidChart)
 97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/sgtpuzzles)
