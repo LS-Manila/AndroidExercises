@@ -98,7 +98,7 @@ A collection of basic Android exercises
 94. ** TBA **
 95. ** TBA **
 96. ** TBA **
-97. ** TBA **
+97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/sgtpuzzles)
 98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/libgdx-demo-superjumper)
 99. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/mario-game)
 100. **Google's Santa Tracker** (https://github.com/DeLaSalleUniversity-Manila/santa-tracker-android)
