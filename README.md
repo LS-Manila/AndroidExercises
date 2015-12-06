@@ -97,7 +97,7 @@ A collection of basic Android exercises
 93. ** TBA **
 94. ** TBA **
 95. ** TBA **
-96. ** TBA **
+96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/MPAndroidChart)
 97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/sgtpuzzles)
 98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/libgdx-demo-superjumper)
 99. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/mario-game)
