@@ -28,7 +28,7 @@ A collection of basic Android exercises
 24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
 26. **Grocery App** (https://classroom.github.com/assignment-invitations/dd320497ba09faadd245acf6614f03af)
-27. **Breast Cancer Awareness App** (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)
+27. **Breast Cancer Awareness App** (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)(SampleSolution: https://github.com/melvincabatuan/DibDibAdvocacy)(GooglePlay: https://play.google.com/store/apps/details?id=com.cabatuan.breastfriend)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-melvincabatuan)
 30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-melvincabatuan)
